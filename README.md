@@ -1,8 +1,17 @@
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with **Hot Module Replacement (HMR)** and some **ESLint** rules.
 
 ---
+
+## 🚀 Quick Start — Run the React Vite Project
+
+Follow these steps to run the project locally:
+
+1. **Install dependencies**
+   ```bash
+   npm install
 
 ## 🔧 Official Plugins
 
